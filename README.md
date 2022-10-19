@@ -1,3 +1,7 @@
+---
+title: Extra Computer Science AP-A Resources
+--- 
+
 # Extra Resources for CS-APA
 
 ## Readings & Quizzes

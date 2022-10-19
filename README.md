@@ -5,6 +5,7 @@
 | | |
 |---|---|
 |[Programmed Lessons](https://programmedlessons.org/Java9/index.html) | Online Java textbook with quizzes and activities |
+| [Java Programming: Wikibooks Edition](https://en.wikibooks.org/wiki/Java_Programming) | Free online textbook for learning Java. It is way more in depth than you'll need for this course, but the Preface, Getting Started, Language Fundamentals, and Classes & Objects sections overlap with the AP Java topic list.  | 
 | [Blue Pelican Java](http://www.bluepelicanjava.com/userLogin_dwnLd.asp) | Free textbook, as long as you're okay trading your email address. |
 
 ## Coding Practice
